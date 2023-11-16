@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cpp_labs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lab-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab-1-Debug-38a860caaad9db41b443.json",
+					"name" : "lab-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab-2-Debug-80ca490872a6449612dc.json",
+					"name" : "lab-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab-3-Debug-0ac54ba3e651e9c491fe.json",
+					"name" : "lab-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab-4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab-4-Debug-d0419557617264e587a3.json",
+					"name" : "lab-4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab-5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab-5-Debug-82de79a35ff93bdcd8e8.json",
+					"name" : "lab-5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab-6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab-6-Debug-1746b34c1e35b7701159.json",
+					"name" : "lab-6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab-7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab-7-Debug-00136833de42cd8f2b9c.json",
+					"name" : "lab-7",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/riabk/Documents/CLionProjects/cpp-labs/cmake-build-debug",
+		"source" : "C:/Users/riabk/Documents/CLionProjects/cpp-labs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
