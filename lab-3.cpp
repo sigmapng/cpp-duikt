@@ -1,19 +1,26 @@
 #include <iostream>
-#include <cmath>
 
 using namespace std;
 
-int main() {
-	double a, b, c;
-
-	cout << "Enter a value for 'a' " << endl;
+// task 1
+void firstTask() {
+	double a;
+	checkpoint:
+	cout << "Enter your desirable 'a' value, but it must be  " << endl;
 	cin >> a;
 
-	cout << "Enter a value for 'b' " << endl;
-	cin >> b;
+	if (a == 1) {
 
-	c = sqrt(pow(a, 2) + pow(b, 2));
-	cout << "Your hypotenuse is " << c;
+	}
+}
 
+// task 2
+/*void secondTask() {
+	double a;
+}*/
+
+int main() {
+	firstTask();
+//	secondTask();
 	return 0;
 }
