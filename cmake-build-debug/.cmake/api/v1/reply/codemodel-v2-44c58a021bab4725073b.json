@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cpp_labs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lab-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab-1-Debug-0a33c35822484dfbd17a.json",
+					"name" : "lab-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab-2-Debug-c456050904c2b1b8acca.json",
+					"name" : "lab-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab-3-Debug-5b75da079242ddbad917.json",
+					"name" : "lab-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab-4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab-4-Debug-a2da8cfd4d08edfb5d2b.json",
+					"name" : "lab-4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab-5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab-5-Debug-15c474b7892efed82ffa.json",
+					"name" : "lab-5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab-6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab-6-Debug-142c5b32dc78b371954e.json",
+					"name" : "lab-6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab-7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab-7-Debug-e67f1af1c732baf162d1.json",
+					"name" : "lab-7",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/julia/Documents/cpp-duikt/cmake-build-debug",
+		"source" : "/Users/julia/Documents/cpp-duikt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
