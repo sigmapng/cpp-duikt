@@ -1,9 +1,0 @@
-/Users/julia/Documents/cpp-duikt/cmake-build-debug/CMakeFiles/lab-1.dir
-/Users/julia/Documents/cpp-duikt/cmake-build-debug/CMakeFiles/lab-2.dir
-/Users/julia/Documents/cpp-duikt/cmake-build-debug/CMakeFiles/lab-3.dir
-/Users/julia/Documents/cpp-duikt/cmake-build-debug/CMakeFiles/lab-4.dir
-/Users/julia/Documents/cpp-duikt/cmake-build-debug/CMakeFiles/lab-5.dir
-/Users/julia/Documents/cpp-duikt/cmake-build-debug/CMakeFiles/lab-6.dir
-/Users/julia/Documents/cpp-duikt/cmake-build-debug/CMakeFiles/lab-7.dir
-/Users/julia/Documents/cpp-duikt/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/julia/Documents/cpp-duikt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
