@@ -11,25 +11,25 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="cpp-duikt" targetName="lab-3.1" />
+      <config projectName="cpp-duikt" targetName="lab-6.2" />
+      <config projectName="cpp-duikt" targetName="lab-5.2" />
+      <config projectName="cpp-duikt" targetName="lab-4.2" />
+      <config projectName="cpp-duikt" targetName="lab-5.1" />
+      <config projectName="cpp-duikt" targetName="lab-3.2" />
+      <config projectName="cpp-duikt" targetName="lab-4.1" />
+      <config projectName="cpp-duikt" targetName="lab-9.2" />
+      <config projectName="cpp-duikt" targetName="lab-8.2" />
+      <config projectName="cpp-duikt" targetName="lab-9.1" />
+      <config projectName="cpp-duikt" targetName="lab-7.2" />
       <config projectName="cpp-duikt" targetName="lab-2.2" />
-      <config projectName="cpp-duikt" targetName="lab-2.1" />
+      <config projectName="cpp-duikt" targetName="lab-3.1" />
       <config projectName="cpp-duikt" targetName="lab-1.2" />
+      <config projectName="cpp-duikt" targetName="lab-2.1" />
       <config projectName="cpp-duikt" targetName="lab-1.1" />
       <config projectName="cpp-duikt" targetName="lab-11.2" />
       <config projectName="cpp-duikt" targetName="lab-10.2" />
       <config projectName="cpp-duikt" targetName="lab-13.2" />
       <config projectName="cpp-duikt" targetName="lab-12.2" />
-      <config projectName="cpp-duikt" targetName="lab-6.2" />
-      <config projectName="cpp-duikt" targetName="lab-5.2" />
-      <config projectName="cpp-duikt" targetName="lab-5.1" />
-      <config projectName="cpp-duikt" targetName="lab-4.2" />
-      <config projectName="cpp-duikt" targetName="lab-4.1" />
-      <config projectName="cpp-duikt" targetName="lab-3.2" />
-      <config projectName="cpp-duikt" targetName="lab-9.2" />
-      <config projectName="cpp-duikt" targetName="lab-9.1" />
-      <config projectName="cpp-duikt" targetName="lab-8.2" />
-      <config projectName="cpp-duikt" targetName="lab-7.2" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -39,17 +39,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ce85ffd-ec69-45d1-b240-96b73d48af3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-1st-sem/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-1st-sem/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-1st-sem/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-1st-sem/.idea/cpp-labs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-1st-sem/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-1st-sem/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-1st-sem/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-1st-sem/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-1st-sem/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-9.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-10.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-11.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-12.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-13.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-8.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-9.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-10.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-11.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-12.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-13.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-9.cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +118,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging master",
     "last_opened_file_path": "/Users/julia/Documents/cpp-duikt/cpp-duikt-2nd-sem",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -120,9 +141,9 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.lab-1.1">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="lab-10.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp-duikt" TARGET_NAME="lab-10.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp-duikt" RUN_TARGET_NAME="lab-10.2">
@@ -269,9 +290,10 @@
     <option name="version" value="3" />
   </component>
   <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="true" />
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
-    <isAutomaticReloadCMake value="true" />
+    <isAutomaticFoundErrors value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
