@@ -28,8 +28,10 @@ void calcEquation19() {
 }
 
 int main() {
+	cout << "- - - - -" << endl;
 	calcEquation14();
+	cout << "- - - - -" << endl;
 	calcEquation19();
-
+	cout << "- - - - -" << endl;
 	return 0;
 }

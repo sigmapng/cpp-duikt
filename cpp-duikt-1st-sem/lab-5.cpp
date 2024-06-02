@@ -63,8 +63,13 @@ void getFuncResult() {
 }
 
 int main() {
+	cout << "- - - - -" << endl;
     calcEquation1();
+	cout << "- - - - -" << endl;
     getNumSquared();
+	cout << "- - - - -" << endl;
     getFuncResult();
+	cout << "- - - - -" << endl;
+
     return 0;
 }

@@ -1,3 +1,8 @@
-//
-// Created by yuliia on 02.05.2024.
-//
+#include <iostream>
+
+using namespace std;
+
+int main () {
+
+	return 0;
+}

@@ -77,10 +77,15 @@ void getIpFromInput() {
 }
 
 int main() {
+	cout << "- - - - -" << endl;
 	getComparisonResult();
+	cout << "- - - - -" << endl;
 	getRoundedNumbers();
+	cout << "- - - - -" << endl;
 	getEpsilonComparisonResult();
+	cout << "- - - - -" << endl;
 	getIpFromInput();
+	cout << "- - - - -" << endl;
 
 	return 0;
 }

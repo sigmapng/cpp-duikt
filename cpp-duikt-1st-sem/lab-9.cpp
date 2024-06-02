@@ -78,8 +78,11 @@ void changeArraysNegativeValues() {
 }
 
 int main() {
+	cout << "- - - - -" << endl;
     bubbleSortArray();
+	cout << "- - - - -" << endl;
     changeArraysNegativeValues();
+	cout << "- - - - -" << endl;
 
     return 0;
 }

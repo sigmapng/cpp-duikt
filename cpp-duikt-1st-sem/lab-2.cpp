@@ -40,8 +40,11 @@ void calcEquation14() {
 }
 
 int main() {
+	cout << "- - - - -" << endl;
 	calcEquation4();
+	cout << "- - - - -" << endl;
 	calcEquation14();
+	cout << "- - - - -" << endl;
 
 	return 0;
 }

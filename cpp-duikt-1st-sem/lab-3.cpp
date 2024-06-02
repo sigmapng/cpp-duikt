@@ -63,7 +63,10 @@ void getScheduleForADay() {
 }
 
 int main() {
+	cout << "- - - - -" << endl;
 	getSumOfDigits();
+	cout << "- - - - -" << endl;
 	getScheduleForADay();
+	cout << "- - - - -" << endl;
 	return 0;
 }
