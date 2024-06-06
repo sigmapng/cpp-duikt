@@ -20,11 +20,3 @@ add_executable(lab-5.2 cpp-duikt-2nd-sem/lab-5.cpp)
 add_executable(lab-6.2 cpp-duikt-2nd-sem/lab-6.cpp)
 add_executable(lab-7.2 cpp-duikt-2nd-sem/lab-7.cpp)
 add_executable(lab-8.2 cpp-duikt-2nd-sem/lab-8.cpp)
-add_executable(lab-9.2 cpp-duikt-2nd-sem/lab-9.cpp)
-add_executable(lab-10.2 cpp-duikt-2nd-sem/lab-10.cpp)
-add_executable(lab-11.2 cpp-duikt-2nd-sem/lab-11.cpp)
-add_executable(lab-12.2 cpp-duikt-2nd-sem/lab-12.cpp)
-add_executable(lab-13.2 cpp-duikt-2nd-sem/lab-13.cpp)
-
-
-
