@@ -11,25 +11,20 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
+      <config projectName="cpp-duikt" targetName="lab-2.2" />
+      <config projectName="cpp-duikt" targetName="lab-3.1" />
+      <config projectName="cpp-duikt" targetName="lab-1.2" />
+      <config projectName="cpp-duikt" targetName="lab-2.1" />
+      <config projectName="cpp-duikt" targetName="lab-1.1" />
       <config projectName="cpp-duikt" targetName="lab-6.2" />
       <config projectName="cpp-duikt" targetName="lab-5.2" />
       <config projectName="cpp-duikt" targetName="lab-4.2" />
       <config projectName="cpp-duikt" targetName="lab-5.1" />
       <config projectName="cpp-duikt" targetName="lab-3.2" />
       <config projectName="cpp-duikt" targetName="lab-4.1" />
-      <config projectName="cpp-duikt" targetName="lab-9.2" />
       <config projectName="cpp-duikt" targetName="lab-8.2" />
       <config projectName="cpp-duikt" targetName="lab-9.1" />
       <config projectName="cpp-duikt" targetName="lab-7.2" />
-      <config projectName="cpp-duikt" targetName="lab-2.2" />
-      <config projectName="cpp-duikt" targetName="lab-3.1" />
-      <config projectName="cpp-duikt" targetName="lab-1.2" />
-      <config projectName="cpp-duikt" targetName="lab-2.1" />
-      <config projectName="cpp-duikt" targetName="lab-1.1" />
-      <config projectName="cpp-duikt" targetName="lab-11.2" />
-      <config projectName="cpp-duikt" targetName="lab-10.2" />
-      <config projectName="cpp-duikt" targetName="lab-13.2" />
-      <config projectName="cpp-duikt" targetName="lab-12.2" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -40,14 +35,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1ce85ffd-ec69-45d1-b240-96b73d48af3f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-5.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-9.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cpp-duikt-1st-sem/lab-9.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cpp-duikt-2nd-sem/lab-3.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,23 +106,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.lab-2.2">
-    <configuration name="lab-10.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp-duikt" TARGET_NAME="lab-10.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp-duikt" RUN_TARGET_NAME="lab-10.2">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lab-11.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp-duikt" TARGET_NAME="lab-11.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp-duikt" RUN_TARGET_NAME="lab-11.2">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lab-12.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp-duikt" TARGET_NAME="lab-12.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp-duikt" RUN_TARGET_NAME="lab-12.2">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lab-13.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp-duikt" TARGET_NAME="lab-13.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp-duikt" RUN_TARGET_NAME="lab-13.2">
+  <component name="RunManager" selected="CMake Application.lab-3.2">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -209,18 +182,9 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab-9.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp-duikt" TARGET_NAME="lab-9.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp-duikt" RUN_TARGET_NAME="lab-9.2">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="CMake Application.lab-1.1" />
       <item itemvalue="CMake Application.lab-1.2" />
-      <item itemvalue="CMake Application.lab-10.2" />
-      <item itemvalue="CMake Application.lab-11.2" />
-      <item itemvalue="CMake Application.lab-12.2" />
-      <item itemvalue="CMake Application.lab-13.2" />
       <item itemvalue="CMake Application.lab-2.1" />
       <item itemvalue="CMake Application.lab-2.2" />
       <item itemvalue="CMake Application.lab-3.1" />
@@ -233,7 +197,6 @@
       <item itemvalue="CMake Application.lab-7.2" />
       <item itemvalue="CMake Application.lab-8.2" />
       <item itemvalue="CMake Application.lab-9.1" />
-      <item itemvalue="CMake Application.lab-9.2" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -261,6 +224,7 @@
       <workItem from="1716905010922" duration="1449000" />
       <workItem from="1717330709535" duration="624000" />
       <workItem from="1717338302667" duration="2635000" />
+      <workItem from="1717738353969" duration="2000" />
     </task>
     <servers />
   </component>
